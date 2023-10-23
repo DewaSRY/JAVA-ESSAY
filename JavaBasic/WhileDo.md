@@ -26,3 +26,7 @@ do{
 
 ### Continue 
  `continue` statement is simple form, will stop executing the current iteration of a block of code in a loop and start a new iteration 
+
+ ### Examine loop condition carefully
+when using loop you want to carefully examine the condition for termination, or continuing a loop Check for endless or infinity loops, also check where a loop will never execute. the continue and break both interrupt normal loop processing. the continue statement starts a new iteration but continue to iterate through the loop. the break statement exist the loop, at the point it's executed, and no longer completes any code int the loop and wont continue iteration 
+
