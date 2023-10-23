@@ -1,4 +1,4 @@
-package JavaBasic;
+package JavaBasic.Switch;
 
 public class Switch {
     
@@ -21,6 +21,8 @@ public class Switch {
         printDayOfWeek(5);
         printDayOfWeek(6);
         printDayOfWeek(7);
+
+        
     }
 
     private static void printDayOfWeek(int day) {

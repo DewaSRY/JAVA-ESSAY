@@ -1,11 +1,11 @@
 
-import JavaBasic.Loop.IsPrimeNumber;
+import JavaBasic.WhileDoLooping.SumDigits;
 
 public class Main {
     
 
     public static void main(String args[]) {
-        IsPrimeNumber.run(1, 10);
+        System.out.println(SumDigits.run(124));
     }
     
 }

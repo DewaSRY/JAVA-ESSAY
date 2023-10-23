@@ -1,4 +1,4 @@
-package JavaBasic.Loop;
+package JavaBasic.ForLooping;
 
 public class IsPrimeNumber {
     
