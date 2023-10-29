@@ -1,11 +1,15 @@
 
-import JavaBasic.ParsingValue.Calculator;;
+
+import List.Challenge;
 
 public class Main {
     
 
     public static void main(String args[]) {
-        Calculator.run();
+        // Calculator.run();
+        Challenge.run();
+
+
     }
     
 }
