@@ -13,7 +13,7 @@ record Customer(String name, ArrayList<Double> transaction) {
 public class AutoBoxingCL {
 
     public static void run() {
-        Customer bob = new Customer("bob", 13);
+        // Customer bob = new Customer("bob", 13);
 
     }
 }
