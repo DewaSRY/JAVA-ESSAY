@@ -1,15 +1,13 @@
 
 
-import Generics.Students;
-public class Main {
-    
+class Main {
 
-    public static void main(String args[]) {
-        // Calculator.run();
-        Students.run();
-     
+    public static void main(String[] args) {
+
 
 
     }
-    
+
+
+     
 }
