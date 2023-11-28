@@ -1,0 +1,10 @@
+{
+  "java.project.sourcePaths": ["src", "__test__/"],
+  "java.project.outputPath": "bin",
+  "java.project.referencedLibraries": ["lib/**/*.jar"],
+  "java.test.config": {
+    "name": "MyTesting",
+    "classPaths": ["__test__/**"],
+    "modulePaths": ["__test__"]
+  }
+}
