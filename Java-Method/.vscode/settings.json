@@ -6,5 +6,6 @@
     "name": "MyTesting",
     "classPaths": ["__test__/**"],
     "modulePaths": ["__test__"]
-  }
+  },
+  "java.debug.settings.onBuildFailureProceed": true
 }
