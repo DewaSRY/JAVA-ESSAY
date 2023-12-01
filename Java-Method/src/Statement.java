@@ -4,7 +4,6 @@ public class Statement {
     static public void checkNumber(int number) {
         if (number > 0) {
             System.out.println(number + " is Positive");
-
         } else if (number < 0) {
             System.out.println(number + " is Negative");
         } else {
