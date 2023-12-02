@@ -1,4 +1,4 @@
-package Designpattern.Adapter;
+package Designpattern.Structural.Adapter;
 
 public class VehicleSpeed {
 
